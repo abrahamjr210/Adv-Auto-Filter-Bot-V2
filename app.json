@@ -1,7 +1,7 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "kiccha-movie-filter-bot V2",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "logo": "https://telegra.ph/file/0a4ee2739dcd574c09d0b.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -9,7 +9,7 @@
     ],
     "website": "https://github.com/AlbertEinsteinTG",
     "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "success_url": "https://t.me/KicchaRequest",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
